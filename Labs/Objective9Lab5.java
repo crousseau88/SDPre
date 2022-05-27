@@ -14,7 +14,6 @@ public class Objective9Lab5 {
     System.out.println("Please give me a number: ");
       num1 = kb.nextDouble();
 
-
     // Part 2:
     // Prompt the user for another number and store their input in num2
     System.out.println("Please give me another number: ");
